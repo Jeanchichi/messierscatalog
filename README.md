@@ -1,1 +1,1 @@
-# messierscatalog
+# Messier's catalog
